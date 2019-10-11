@@ -10,5 +10,10 @@ ALBERT Is actually a lite or leaner BERT, which achieves state-of-the-art result
 ![](3.jpg)
 
 Read at https://arxiv.org/pdf/1909.11942v1.pdf
-#naturallanguage #artificialintelligence #machinelearning
+
+#naturallanguage 
+
+#artificialintelligence 
+
+#machinelearning
 
